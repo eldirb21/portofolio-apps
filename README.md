@@ -15,7 +15,6 @@
 
 <p align="center">
     <img src="BookStore/signin.jpeg" width="30%" >
-    <img src="BookStore/sidebar.jpeg" width="30%" >
     <img src="BookStore/home.jpeg" width="30%"> 
     <img src="BookStore/search.jpeg" width="30%" >
     <img src="BookStore/notification.jpeg" width="30%"> 
