@@ -13,6 +13,16 @@
 
 ## 2 BookStore
 
+<p align="center">
+    <img src="BookStore/signin.jpeg" width="30%" >
+    <img src="BookStore/sidebar.jpeg" width="30%" >
+    <img src="BookStore/home.jpeg" width="30%"> 
+    <img src="BookStore/search.jpeg" width="30%" >
+    <img src="BookStore/notification.jpeg" width="30%"> 
+    <img src="BookStore/payment-detail.jpeg" width="30%" >
+    <img src="BookStore/payment-history.jpeg" width="30%" >
+</p>
+
 ## 3 TemuAkrab
 
 ## 4 Contact
