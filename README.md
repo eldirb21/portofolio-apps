@@ -11,7 +11,7 @@
     <img src="Movies/movies-profile-dark.jpeg" width="30%" >
 </p>
 
-## 2 [BookStore](https://github.com/eldirb21/Book-Store)
+## [2 BookStore](https://github.com/eldirb21/Book-Store)
 
 <p align="center">
     <img src="BookStore/signin.jpeg" width="30%" >
