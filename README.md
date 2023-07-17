@@ -18,8 +18,8 @@
 ## 4 Contact
 
 <p align="center">
-    <img src="Contact/contact-list-with-search.png" width="30%"> 
     <img src="Contact/contact-list.png" width="30%"> 
+    <img src="Contact/contact-list-with-search.png" width="30%"> 
     <img src="Contact/contact-detail.png" width="30%" >
     <img src="Contact/contact-edit.png" width="30%" >
     <img src="Contact/contact-add.png" width="30%" >
