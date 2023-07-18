@@ -35,10 +35,10 @@
 ## [4 TemuAkrab](https://github.com/eldirb21/TEMUAKRAB)
 
 <p align="center">
-    <img src="TemuAkrab/search-user.jpeg" width="25%"> 
-    <img src="TemuAkrab/list-user.jpeg" width="25%"> 
-    <img src="TemuAkrab/form-kedatangan.jpeg" width="25%" >
-    <img src="TemuAkrab/form-input-kedatangan.jpeg" width="25%" >
+    <img src="TemuAkrab/search-user.jpeg" width="15%"> 
+    <img src="TemuAkrab/list-user.jpeg" width="15%"> 
+    <img src="TemuAkrab/form-kedatangan.jpeg" width="15%" >
+    <img src="TemuAkrab/form-input-kedatangan.jpeg" width="15%" >
 </p>
 
 ## 5 Alarm
