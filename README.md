@@ -65,4 +65,4 @@ AndaruCollection is an internal company application, made specifically to suppor
 
 ## [10 AndaruDelivery](#private)
 
-##### [Sorry, this application cannot be published, because this application is private](#private)
+#### [\*\*Sorry, not all applications can be displayed on the screen, especially the source code for this application cannot be published, because this application is private](#private)
