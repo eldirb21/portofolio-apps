@@ -51,18 +51,26 @@ This application is a scanning application for invited guests, you can search ba
     <img src="TemuAkrab/form-input-kedatangan.jpeg" width="24%" >
 </p>
 
-## [6 CryptoMarket](https://github.com/eldirb21/crypto-market)
+## [5 CryptoMarket](https://github.com/eldirb21/crypto-market)
 
-## [7 FotoFoto](#private)
+## [6 FotoFoto](#private)
 
-## [8 MySupir](#private)
+This application is an organizational event application as a photo service for weddings, and various other events,
 
-## [9 Mobbi](#private)
+## [7 MySupir](#private)
 
-## [10 AndaruCollection](#private)
+This application is an application for ordering pick-up and delivery of customers.
 
-AndaruCollection is an internal company application, made specifically to support employee activities, especially the collector division when collecting installments, the advantages of this application lie in its features, including tracking, documents, address users, a more organized admin helper.
+## [8 Mobbi](#private)
+
+This application is an application for buying and selling used cars, which is integrated with payment, test driving, auctions, and sharing features that help make it easier for buyers.
+
+## [9 AndaruCollection](#private)
+
+This application is an internal company application, made specifically to support employee activities, especially the collector division when collecting installments, the advantages of this application lie in its features, including tracking, documents, address users, a more organized admin helper.
 
 ## [10 AndaruDelivery](#private)
+
+This application is as the name suggests delivery, so this application focuses on managing the delivery of goods from the warehouse to the buyer, starting from recording the stock that is delivered, the type of goods being delivered, the total value of the goods being delivered, the delivery time and also displaying the delivery location.
 
 #### [\*\*Sorry, not all applications can be displayed on the screen, especially the source code for this application cannot be published, because this application is private](#private)
