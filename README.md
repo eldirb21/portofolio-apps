@@ -171,4 +171,4 @@ This application is an internal company application, made specifically to suppor
 
 This application is as the name suggests delivery, so this application focuses on managing the delivery of goods from the warehouse to the buyer, starting from recording the stock that is delivered, the type of goods being delivered, the total value of the goods being delivered, the delivery time and also displaying the delivery location. -->
 
-#### [\*\*Sorry, not all applications can be displayed on the screen, especially the source code for this application cannot be published, because this application is private](#private)
+<!-- #### [\*\*Sorry, not all applications can be displayed on the screen, especially the source code for this application cannot be published, because this application is private](#private) -->
