@@ -7,6 +7,7 @@ SEARCH ME IN [DRIVER](https://drive.google.com/drive/folders/1AGourakQyBU_ZRR510
 This application is an internal company application, made specifically to support employee activities, especially the collector division when collecting installments, the advantages of this application lie in its features, including tracking, documents, address users, a more organized admin helper.
 
 ### Features
+
 ```sh
 - Journey
 - Activity
@@ -22,8 +23,9 @@ This application is an internal company application, made specifically to suppor
 ```
 
 ### Skills Used
+
 ```sh
-- React-native 
+- React-native
 - Axios
 - Local Storage
 - Rest Api
@@ -38,9 +40,10 @@ This application is an internal company application, made specifically to suppor
 
 This application is an application for buying and selling used cars, which is integrated with payment, test driving, auctions, and sharing features that help make it easier for buyers.
 
-[Play Store](https://play.google.com/store/apps/details?id=com.astra.mobil88) 
+[Play Store](https://play.google.com/store/apps/details?id=com.astra.mobil88)
 
 ### Features
+
 ```sh
 - Auth
 - Buy Car
@@ -57,8 +60,9 @@ This application is an application for buying and selling used cars, which is in
 ```
 
 ### Skills Used
+
 ```sh
-- React-native 
+- React-native
 - Axios
 - Local Storage
 - Rest Api
@@ -70,7 +74,7 @@ This application is an application for buying and selling used cars, which is in
 - Google Sign
 - Camera
 - Jwt Token
-- Unit test 
+- Unit test
 ```
 
 ## [3 MySupir](https://play.google.com/store/apps/details?id=com.driver.mysupir)
@@ -80,6 +84,7 @@ This application is an application for ordering pick-up and delivery of customer
 [Play Store](https://play.google.com/store/apps/details?id=com.driver.mysupir)
 
 ### Features
+
 ```sh
 - Auth
 - Order
@@ -93,8 +98,9 @@ This application is an application for ordering pick-up and delivery of customer
 ```
 
 ### Skills Used
+
 ```sh
-- React-native 
+- React-native
 - Axios
 - Local Storage
 - Rest Api
@@ -105,15 +111,15 @@ This application is an application for ordering pick-up and delivery of customer
 - Google Sign
 - Camera
 - Jwt Token
-- Unit test 
+- Unit test
 ```
-
 
 ## [4 Exchange](https://github.com/eldirb21/TestMobile)
 
 This exchange application is a simple application that displays a list of crypto with daily volume and price.
 
 ### Features
+
 ```sh
 - Auth
 - List
@@ -122,12 +128,14 @@ This exchange application is a simple application that displays a list of crypto
 ```
 
 ### Skills Used
+
 ```sh
 - React-native
 - Redux
 - SQlite
 - Redux-thunk
 ```
+
 <p align="center">
     <img src="Exchange/signin.png" width="30%"> 
     <img src="Exchange/list.png" width="30%"> 
@@ -137,9 +145,12 @@ This exchange application is a simple application that displays a list of crypto
 
 ## [5 Contact](https://github.com/eldirb21/Contact)
 
+[![Video](https://www.instagram.com/reel/C1F1N5VNVQb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)](https://www.instagram.com/reel/C1F1N5VNVQb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 This application is a contact application where users can be added and their data can also be changed, what makes it simple is that users can be searched easily.
 
 ### Features
+
 ```sh
 - List
 - Detail
@@ -149,16 +160,13 @@ This application is a contact application where users can be added and their dat
 ```
 
 ### Skills Used
+
 ```sh
 - React-native
 - Redux
 - Redux-thunk
 - Jest
 ```
-<video width="320" height="240" controls>
-  <source src="Contact/contact.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 <p align="center">
     <img src="Contact/contact-list.png" width="30%"> 
@@ -173,6 +181,7 @@ This application is a contact application where users can be added and their dat
 This application is an online book selling application, where it is hoped that the books purchased can be obtained physically and also digitally, making it easier for users and attracting users to read books anywhere.
 
 ### Features
+
 ```sh
 - List
 - Detail
@@ -183,6 +192,7 @@ This application is an online book selling application, where it is hoped that t
 ```
 
 ### Skills Used
+
 ```sh
 - React-native
 ```
@@ -201,6 +211,7 @@ This application is an online book selling application, where it is hoped that t
 This movies application is an application that is designed to be simple for users or users, the goal is to make it easier for users to search and book movies they want to watch, the advantage of this application is that users can choose based on the best rating, so the movies they watch don't disappoint.
 
 ### Features
+
 ```sh
 - List
 - Detail
@@ -210,6 +221,7 @@ This movies application is an application that is designed to be simple for user
 ```
 
 ### Skills Used
+
 ```sh
 - React-native
 - Redux
@@ -234,6 +246,7 @@ This movies application is an application that is designed to be simple for user
 This application is a scanning application for invited guests, you can search based on data in the backoffice or via a qr code scan, and will display the number of guests, table numbers, and the number who have arrived.
 
 ### Features
+
 ```sh
 - List Search
 - Scann barcode
@@ -241,8 +254,9 @@ This application is a scanning application for invited guests, you can search ba
 ```
 
 ### Skills Used
+
 ```sh
-- React-native 
+- React-native
 - Axios
 - Local Storage
 - Rest Api
@@ -253,4 +267,4 @@ This application is a scanning application for invited guests, you can search ba
     <img src="TemuAkrab/list-user.jpeg" width="24%"> 
     <img src="TemuAkrab/form-kedatangan.jpeg" width="24%" >
     <img src="TemuAkrab/form-input-kedatangan.jpeg" width="24%" >
-</p> 
+</p>
