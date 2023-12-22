@@ -143,9 +143,10 @@ This exchange application is a simple application that displays a list of crypto
     <img src="Exchange/responsive.png" width="30%" >
 </p>
 
-## [5 Contact](https://github.com/eldirb21/Contact) <a href="https://www.instagram.com/reel/C1F1N5VNVQb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+## [5 Contact](https://github.com/eldirb21/Contact)
 
-  <img width="40px" height="40px" src="Contact/contact-list.png" alt="Video Contact" style="border-radius: 50px;">
+<a href="https://www.instagram.com/reel/C1F1N5VNVQb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+  <img width="40px" height="40px" src="Contact/contact-list.png" alt="Video Contact" style="border-radius: 50px">
 </a>
 
 This application is a contact application where users can be added and their data can also be changed, what makes it simple is that users can be searched easily.
