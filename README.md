@@ -145,7 +145,7 @@ This exchange application is a simple application that displays a list of crypto
 
 ## [5 Contact](https://github.com/eldirb21/Contact)
 
-[![Video](https://www.instagram.com/reel/C1F1N5VNVQb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)](https://www.instagram.com/reel/C1F1N5VNVQb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+[![Video](Contact/contact-list.png)](https://www.instagram.com/reel/C1F1N5VNVQb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 This application is a contact application where users can be added and their data can also be changed, what makes it simple is that users can be searched easily.
 
