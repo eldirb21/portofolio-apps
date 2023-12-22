@@ -155,6 +155,10 @@ This application is a contact application where users can be added and their dat
 - Redux-thunk
 - Jest
 ```
+<video width="320" height="240" controls>
+  <source src="Contact/contact.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <p align="center">
     <img src="Contact/contact-list.png" width="30%"> 
